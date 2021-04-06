@@ -1,5 +1,7 @@
 # Proposal README
 
+https://cardano.ideascale.com/a/campaign-home/25942
+
 # Campaign Brief
 
 High-quality and decentralized decision-making, will increase treasury ROI and legitimize decentralized governance.
