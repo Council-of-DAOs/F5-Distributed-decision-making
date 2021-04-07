@@ -2,7 +2,7 @@
 
 ## Projects
 
-| [Project Overview](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/projects) | [Milestones](https://github.com/QCouncil-of-DAOs/F5-Distributed-decision-making/milestones) |
+| [Project Overview](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/projects) | [Milestones](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/milestones) |
 |--- | --- |
 
 
