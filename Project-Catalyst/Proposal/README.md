@@ -14,7 +14,9 @@ NewMindflow has over 15yrs of production experience, Stephen, 30yrs in managemen
 
 # Detailed plan (not required) - Fill in here any additional details
 
-Already several DAOs (Decentralised Autonomous Organisations) are emerging in and around the Catalyst community. Find ways to better optimize their decentralised decision-making capabilities and better integrate their experiences, successes, and failures with the larger Catalyst community. To enable the exchange of ideas, to learn from each other's successes and mistakes to research ways of improving decentralised decision-making, and to document our progress.
+WADA (West Africa Decentralized Alliance) - https://wadaliance.org/, NFT-DAO- https://nft-dao.org/ and Proof of Africa - https://poapool.com/ have expressed interest in being part of A Council of Catalyst DAOs.
+
+We plan to form a council with these founder DAOs which will build a platform together where we can share our living experience of decentralised organisation with the Catalyst community.
 
 **Phase 1:** Organise: Form council of Catalyst DAOs – create a platform, share research, etc. – Fund 5
 
