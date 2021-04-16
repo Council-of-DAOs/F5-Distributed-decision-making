@@ -1,10 +1,19 @@
 # F5-Distributed-decision-making
 
+## Our Proposal
+
+### Cardano.ideascale
+
+https://cardano.ideascale.com/a/campaign-home/25942
+
+### Proposal text
+
+https://github.com/Council-of-DAOs/F5-Distributed-decision-making/tree/main/Project-Catalyst/Proposal
+
 ## Projects
 
-| [Project Overview](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/projects) | [Milestones](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/milestones) |
-|--- | --- |
-
+[Project Overview](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/projects)
+[Milestones](https://github.com/Council-of-DAOs/F5-Distributed-decision-making/milestones)
 
 ## To participate :
 
@@ -14,7 +23,3 @@
 
 
 
-
-F5: Distributed decision making proposal
-
-https://cardano.ideascale.com/a/campaign-home/25942
