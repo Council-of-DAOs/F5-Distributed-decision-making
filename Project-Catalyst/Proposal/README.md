@@ -1,41 +1,33 @@
-# Proposal README
+# Problem statement :
 
-https://cardano.ideascale.com/a/campaign-home/25942
+Several DAOs have already emerged in the orbit of the Catalyst community. Synergy is needed between them and Project Catalyst.
 
-# Campaign Brief
+# Describe your solution to the problem
 
-High-quality and decentralized decision-making, will increase treasury ROI and legitimize decentralized governance.
+The further development of an open platform where emergent DAOs and Project Catalyst can research, communicate and document DAOs.
 
-## How success looks like
+# Relevant experience
 
-The community is **consciously improving** decision-making processes while **growing** a group of committed and **collaborative leaders**.
+NewMindflow has over 15yrs of production experience, Stephen, 30yrs in management & we have the collective knowledge of our founding DAOs.
 
-## Key metrics to measure
+# Website/GitHub repository (not required) https://github.com/organizations/Council-of-DAOs
 
-To assess ROI of this challenge we will ask ourselves: Did we get better at distributed decision making?
+# Detailed plan (not required) - Fill in here any additional details
 
-* Community confidence: avg rating or % of Catalyst members who approve of overall results of a funding round.
-* Community participation: number of Catalyst participants contributing to improving Catalyst decision making systems
-* Measured overall
-* Impact of individual initiatives
-* Proof of iteration: round over round, is there evidence that "pain points" are evolving? (Failure would look like seeing the same problems emerging each funding round)
-* Re-election rates: if proposers receive subsequent funding, this can be seen as a sign of success
-* Embracing failure: is the community able to see value in & learn from proposals that did not work out?
+Already several DAOs (Decentralised Autonomous Organisations) are emerging in and around the Catalyst community. Find ways to better optimize their decentralised decision-making capabilities and better integrate their experiences, successes, and failures with the larger Catalyst community. To enable the exchange of ideas, to learn from each other's successes and mistakes to research ways of improving decentralised decision-making, and to document our progress.
 
-## Guiding questions
+**Phase 1:** Organise: Form council of Catalyst DAOs – create a platform, share research, etc. – Fund 5
 
-How do we encourage people to participate in decision making?
+**Phase 2:** Autonomy: Propose and mentor DAO models, Transition council of Catalyst DAOs to token rewards. – Future Fund
 
-How do we ensure the group of decision makers is diverse and accessible to newcomers?
+**Phase 3:** Distributed - Future Fund
 
-How can we ensure that the Catalyst process keeps iterating to improve?
+DAOs that have already confirmed their interest in participating in the project:
 
-How will we include the community in decision making?
+**WADA** (West Africa Decentralized Alliance) - https://wadaliance.org
+**NFT-DAO**- https://nft-dao.org/
+**Proof of Africa** - https://poapool.com/
 
-## Potential directions
+**Note**: This is a draft, the project is still evolving.
 
-* Software that supports decision making or iteration
-* Experiments in social, collaboration, or meeting structures that encourage improved decision making
-* Community advisor training
-* Low effort ways to engage voters in assessing proposals and tapping into existing insights.
-
+**Which of these definitions apply to you?** Other/Prefer not to say, Entrepreneur
