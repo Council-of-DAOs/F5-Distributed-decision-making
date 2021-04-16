@@ -1,4 +1,6 @@
-# F5-Distributed-decision-making
+# Council of DAOs
+
+# Fund 5 : Distributed-decision-making
 
 ## Our Proposal
 
