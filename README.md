@@ -4,7 +4,7 @@
 
 ### Cardano.ideascale
 
-https://cardano.ideascale.com/a/campaign-home/25942
+https://cardano.ideascale.com/a/dtd/A-Council-of-Catalyst-DAOs/352206-48088
 
 ### Proposal text
 
