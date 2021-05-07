@@ -27,7 +27,9 @@ We plan to form a council with these founder DAOs which will build a platform to
 DAOs that have already confirmed their interest in participating in the project:
 
 **WADA** (West Africa Decentralized Alliance) - https://wadaliance.org
+
 **NFT-DAO**- https://nft-dao.org/
+
 **Proof of Africa** - https://poapool.com/
 
 **Note**: This is a draft, the project is still evolving.
